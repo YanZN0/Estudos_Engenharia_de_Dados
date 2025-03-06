@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "aula19"
+version = "0.1.0"
+description = ""
+authors = ["Yan Robim <yanrobim@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.115.8"
+uvicorn = {extras = ["standard"], version = "^0.34.0"}
+sqlalchemy = "^2.0.38"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

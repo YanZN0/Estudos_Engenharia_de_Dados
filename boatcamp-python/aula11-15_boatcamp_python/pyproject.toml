@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aula11-15-boatcamp"
+version = "0.1.0"
+description = ""
+authors = ["Yan Robim <yanrobim@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+schedule = "^1.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

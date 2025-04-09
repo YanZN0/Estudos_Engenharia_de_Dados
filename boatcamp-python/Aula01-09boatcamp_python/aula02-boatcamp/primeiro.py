@@ -1,0 +1,1 @@
+primeiro = (int(input("Diga algum número para fornecermos o seu resultado em quadrado:")))

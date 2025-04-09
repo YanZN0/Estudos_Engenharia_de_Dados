@@ -1,0 +1,9 @@
+[submodule "Apache-Airflow/ORM-SQLAlchemy"]
+	path = Apache-Airflow/ORM-SQLAlchemy
+	url = https://github.com/YanZN0/ORM-SQLAlchemy.git
+[submodule "Apache-Airflow/workshop_docker"]
+	path = Apache-Airflow/workshop_docker
+	url = https://github.com/YanZN0/workshop_docker.git
+[submodule "Apache-Airflow/workshop-airflow"]
+	path = Apache-Airflow/workshop-airflow
+	url = https://github.com/YanZN0/workshop-airflow.git
